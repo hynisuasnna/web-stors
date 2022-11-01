@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "module": "^1.2.5",
+    "mongoose": "^6.7.0"
+  },
+  "scripts": {
+    "devstart": "node server.js"
+  },
+  "name": "store",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
